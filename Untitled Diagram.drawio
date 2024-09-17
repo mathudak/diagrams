@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.7.14">
   <diagram name="Page-1" id="Wd6QTQrWX2mw0h-eFtn6">
-    <mxGraphModel dx="1734" dy="982" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="882" dy="584" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -215,6 +215,14 @@
         </mxCell>
         <mxCell id="cdumC1pG2LzIDTalaGFU-44" value="&lt;p align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Authentication and authorization are handled by the host and are common for all applications. Changes to the Auth flow are made in the single place and can affect event the public applications, although on a minor scale.&lt;/font&gt;&lt;/p&gt;&lt;p align=&quot;justify&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Advantage is, that this way we can easily handled Landing page for CRD application. No need for hacks or any workarounds.&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;dashed=1;dashPattern=1 1;strokeColor=default;" vertex="1" parent="1">
           <mxGeometry x="760" y="660" width="360" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="cdumC1pG2LzIDTalaGFU-47" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;Landing Page&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="855" y="100" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cdumC1pG2LzIDTalaGFU-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeWidth=3;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1" source="cdumC1pG2LzIDTalaGFU-1" target="cdumC1pG2LzIDTalaGFU-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="800" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
