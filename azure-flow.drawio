@@ -146,6 +146,18 @@
         <mxCell id="9lX-J1URTzYkLTnSYC8O-17" value="Authenticated user" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="500" y="750" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="9lX-J1URTzYkLTnSYC8O-18" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="10" y="350" as="sourcePoint" />
+            <mxPoint x="1160" y="350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lX-J1URTzYkLTnSYC8O-19" value="&lt;div&gt;Current Implementation&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="10" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9lX-J1URTzYkLTnSYC8O-20" value="Proposed solution" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="40" y="360" width="240" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
