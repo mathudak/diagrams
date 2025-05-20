@@ -1,9 +1,117 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:139.0) Gecko/20100101 Firefox/139.0" version="27.0.6">
   <diagram name="Page-1" id="J98GPp0trTVqpxbkB7I4">
-    <mxGraphModel>
+    <mxGraphModel dx="1725" dy="987" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-1" value="" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="1090" height="400" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-2" value="&lt;font&gt;&lt;b&gt;Weekly&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70" y="75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-5" value="&lt;font&gt;Monday&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="220" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-7" value="&lt;div&gt;Tuesday&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-8" value="Wednesday" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="460" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-10" value="Thursday" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="580" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-11" value="Friday" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="700" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-12" value="Saturday" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="820" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-13" value="Sunday" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fontColor=light-dark(#97D077,#214210);fontStyle=1;strokeColor=#97D077;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="940" y="135" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-17" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="70" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-15" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#D5E8D4;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-17">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-16" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#97D077;strokeColor=#719D5A;strokeWidth=2;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-17">
+          <mxGeometry x="70" y="2.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-18" value="&lt;b&gt;Start Date&lt;/b&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="70" y="240" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-19" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="230" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-20" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=18;fillColor=#E6E6E6;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-19">
+          <mxGeometry width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-21" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#FFFFFF;strokeColor=#000000;strokeWidth=2;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-19">
+          <mxGeometry x="10" y="2.5" width="35" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-23" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="115" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-3" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;02:00&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-23">
+          <mxGeometry y="20" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-22" value="Time" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=4;strokeColor=#FFFFFF;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-23">
+          <mxGeometry x="10" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-24" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="220" y="295" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-25" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;2025-05-20&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-24">
+          <mxGeometry y="20" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-26" value="Date" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=4;strokeColor=#FFFFFF;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-24">
+          <mxGeometry x="10" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-39" value="" style="group" vertex="1" connectable="0" parent="qRkWaUQkQDnQNEdSdrAU-24">
+          <mxGeometry x="114" y="30" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-39">
+          <mxGeometry y="6.666666666666666" width="20" height="13.333333333333332" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-36" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#666666;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-39">
+          <mxGeometry width="20" height="6.666666666666666" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-27" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="70" y="295" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-28" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;02:00&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-27">
+          <mxGeometry y="20" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-29" value="Time" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=4;strokeColor=#FFFFFF;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-27">
+          <mxGeometry x="10" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-40" value="" style="group;fontSize=18;" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="400" y="295" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-41" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Once&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-40">
+          <mxGeometry y="20" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-42" value="Occurence" style="text;html=1;align=center;verticalAlign=top;whiteSpace=wrap;rounded=0;fontSize=16;strokeWidth=4;strokeColor=#FFFFFF;" vertex="1" parent="qRkWaUQkQDnQNEdSdrAU-40">
+          <mxGeometry x="10" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-48" value="" style="whiteSpace=wrap;html=1;strokeColor=#4D4D4D;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="355" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-49" value="&lt;div align=&quot;left&quot;&gt;Daily&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="355" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-50" value="Weekly" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="385" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-51" value="Bi-Weekly" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="415" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qRkWaUQkQDnQNEdSdrAU-52" value="Monthly" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;spacingLeft=10;" vertex="1" parent="1">
+          <mxGeometry x="400" y="445" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
