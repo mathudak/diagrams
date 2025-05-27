@@ -230,8 +230,8 @@
         <mxCell id="8cK7EcofxTwZP08GgDsM-94" value="User" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontStyle=1;spacingLeft=2;" vertex="1" parent="1">
           <mxGeometry x="489" y="112" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8cK7EcofxTwZP08GgDsM-95" value="Micro Frontend Architecture" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;spacingLeft=2;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="350" height="30" as="geometry" />
+        <mxCell id="8cK7EcofxTwZP08GgDsM-95" value="RIS Logical Architecture" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;fontStyle=1;spacingLeft=2;" vertex="1" parent="1">
+          <mxGeometry x="10" y="10" width="349" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
