@@ -1,9 +1,90 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:148.0) Gecko/20100101 Firefox/148.0" version="29.3.6">
   <diagram name="Page-1" id="FhgNsPv4YRrUv02aI0iL">
-    <mxGraphModel>
+    <mxGraphModel dx="909" dy="652" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-7" edge="1" parent="1" source="h7OKh_2Qr4B-KSHineTi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h7OKh_2Qr4B-KSHineTi-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-8" edge="1" parent="1" source="h7OKh_2Qr4B-KSHineTi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h7OKh_2Qr4B-KSHineTi-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-9" edge="1" parent="1" source="h7OKh_2Qr4B-KSHineTi-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="h7OKh_2Qr4B-KSHineTi-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="1.3 Legal Aspects" vertex="1">
+          <mxGeometry height="40" width="560" x="40" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="&lt;div&gt;1.3.1 Correct Name - Linked Automatically&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-5" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="1.3.2 Small Change in Name - Not Linked Automatically" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="1.3.3 Completely Different Name - Not Linked Automatically" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="150" x="480" y="165" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="30" width="150" x="480" y="225" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-12" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="27.5" width="12.5" x="600" y="167.5" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-13" parent="1" style="triangle;whiteSpace=wrap;html=1;rotation=90;" value="" vertex="1">
+          <mxGeometry height="27.5" width="12.5" x="600" y="226.25" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-14" parent="1" style="whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="125" width="150" x="480" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-15" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=5;" value="1.3.2. CS Chapter" vertex="1">
+          <mxGeometry height="30" width="150" x="480" y="260" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=5;" value="1.3.3. CS Chapter" vertex="1">
+          <mxGeometry height="30" width="150" x="480" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=5;" value="1.3.4. CS Chapter" vertex="1">
+          <mxGeometry height="30" width="150" x="480" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;spacingLeft=5;" value="1.3.5. CS Chapter" vertex="1">
+          <mxGeometry height="30" width="150" x="480" y="350" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-19" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="&lt;div&gt;1.3.1 Wrong name from Slovak document&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-20" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="&lt;div&gt;1.3.1 Wrong name from Czech document&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-21" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="&lt;div&gt;1.3.1 Wrong name from Hungarian document&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-22" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="&lt;div&gt;1.3.1 Correct name from Austrian document&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="&lt;div&gt;1.3.6 Chapter not from Common Structure from Austrian Document&lt;/div&gt;" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="640" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-24" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="1.3.6 Chapter not from Common Structure from Polish Document" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="700" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-25" parent="1" style="rounded=0;whiteSpace=wrap;html=1;align=left;spacingLeft=5;" value="1.3.7 Chapter not from Common Structure from Polish Document" vertex="1">
+          <mxGeometry height="40" width="560" x="80" y="760" as="geometry" />
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-27" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="390" as="sourcePoint" />
+            <mxPoint x="760" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="h7OKh_2Qr4B-KSHineTi-28" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="10" y="390" as="sourcePoint" />
+            <mxPoint x="1160" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
