@@ -40,13 +40,13 @@
         <mxCell id="1p0z5rlBuzdYi8RUKLox-32" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Settings CE" vertex="1">
           <mxGeometry height="30" width="390" x="610" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="1p0z5rlBuzdYi8RUKLox-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ksv-settings.user-account.name&lt;/b&gt;" vertex="1">
+        <mxCell id="1p0z5rlBuzdYi8RUKLox-33" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="&lt;b&gt;ksv-settings.user-account.name&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="190" x="210" y="250" as="geometry" />
         </mxCell>
         <mxCell id="1p0z5rlBuzdYi8RUKLox-34" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Max" vertex="1">
           <mxGeometry height="30" width="150" x="410" y="250" as="geometry" />
         </mxCell>
-        <mxCell id="1p0z5rlBuzdYi8RUKLox-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&lt;b&gt;ksv-settings.user-account.surname&lt;/b&gt;" vertex="1">
+        <mxCell id="1p0z5rlBuzdYi8RUKLox-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontColor=#FF3333;" value="&lt;b&gt;ksv-settings.user-account.surname&lt;/b&gt;" vertex="1">
           <mxGeometry height="30" width="210" x="210" y="280" as="geometry" />
         </mxCell>
         <mxCell id="1p0z5rlBuzdYi8RUKLox-36" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Musterman" vertex="1">
