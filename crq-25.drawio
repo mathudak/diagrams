@@ -43,7 +43,7 @@
         <mxCell id="oj-u8SGBmaWMQrKKgs0j-12" parent="oj-u8SGBmaWMQrKKgs0j-58" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="Preview the document" vertex="1">
           <mxGeometry height="40" width="140" x="180" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="oj-u8SGBmaWMQrKKgs0j-15" parent="oj-u8SGBmaWMQrKKgs0j-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;div align=&quot;left&quot;&gt;Current Document Upload Flow&lt;/div&gt;" vertex="1">
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-15" parent="oj-u8SGBmaWMQrKKgs0j-58" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;div align=&quot;left&quot;&gt;Current NCI Document Upload Flow&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="10" as="geometry" />
         </mxCell>
         <mxCell id="oj-u8SGBmaWMQrKKgs0j-33" edge="1" parent="oj-u8SGBmaWMQrKKgs0j-58" source="oj-u8SGBmaWMQrKKgs0j-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="WIyWlLk6GJQsqaUBKTNV-11">
@@ -55,7 +55,7 @@
         <mxCell id="oj-u8SGBmaWMQrKKgs0j-31" parent="oj-u8SGBmaWMQrKKgs0j-58" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" value="&lt;div&gt;Upload the document&lt;/div&gt;" vertex="1">
           <mxGeometry height="40" width="140" y="270" as="geometry" />
         </mxCell>
-        <mxCell id="oj-u8SGBmaWMQrKKgs0j-30" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;div align=&quot;left&quot;&gt;Proposed Document Upload Flow&lt;/div&gt;" vertex="1">
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-30" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="&lt;div align=&quot;left&quot;&gt;Proposed NCI Document Upload Flow&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="280" x="474" y="40" as="geometry" />
         </mxCell>
         <mxCell id="oj-u8SGBmaWMQrKKgs0j-36" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="oj-u8SGBmaWMQrKKgs0j-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="oj-u8SGBmaWMQrKKgs0j-50">
@@ -127,6 +127,42 @@
         </mxCell>
         <mxCell id="oj-u8SGBmaWMQrKKgs0j-63" parent="WIyWlLk6GJQsqaUBKTNV-1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;dashed=1;fillColor=#f8cecc;strokeColor=#b85450;" value="Reject Document" vertex="1">
           <mxGeometry height="40" width="140" x="650" y="490" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-65" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Current Flow" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-67" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- Validation is optional and DM can ignore it" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-68" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- DM is not forced to Preview the document" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-69" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- This allows upload of Documents without correct structure" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-70" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- RNE admins are forced to check it manually and request fix" vertex="1">
+          <mxGeometry height="30" width="360" x="40" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-71" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1;fontSize=14;" value="Proposed Flow" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="920" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-72" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- Validation is executed automatically after the upload" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="950" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-73" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- DM can verify the quality of the uploaded document" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="980" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-74" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; - Document without Headings is rejected; it&#39;s not usable in NCI" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="1010" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-75" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="- After attaching the document, preview dialog is opened" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="1040" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-76" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; - DM can manually map document chapters to Common Structure" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="1070" as="geometry" />
+        </mxCell>
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-78" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="* DM - Document Manager" vertex="1">
+          <mxGeometry height="30" width="360" x="440" y="1120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
