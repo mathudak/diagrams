@@ -161,7 +161,7 @@
         <mxCell id="oj-u8SGBmaWMQrKKgs0j-76" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="&amp;nbsp; - DM can manually map document chapters to Common Structure" vertex="1">
           <mxGeometry height="30" width="360" x="440" y="1070" as="geometry" />
         </mxCell>
-        <mxCell id="oj-u8SGBmaWMQrKKgs0j-78" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="* DM - Document Manager" vertex="1">
+        <mxCell id="oj-u8SGBmaWMQrKKgs0j-78" parent="WIyWlLk6GJQsqaUBKTNV-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;rounded=0;" value="* DM - Document Manager" vertex="1">
           <mxGeometry height="30" width="360" x="440" y="1120" as="geometry" />
         </mxCell>
       </root>
