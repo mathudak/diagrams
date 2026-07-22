@@ -1,0 +1,291 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36">
+  <diagram name="Page-1" id="SpuioGai03kpxUoHqlzz">
+    <mxGraphModel dx="2951" dy="1173" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-11" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GGbUc18tlm84fCOsZ6mb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="User requests RFP User role in the registration form" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--3" edge="1" parent="1" source="DjCh3b8ZHY6moQq9vZP6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Email registration request is sent to support.ris@rne.eu" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-14" edge="1" parent="1" source="DjCh3b8ZHY6moQq9vZP6-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="DjCh3b8ZHY6moQq9vZP6-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="682.5" y="440.2244827586207" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to RIS Admin - request for organization" vertex="1">
+          <mxGeometry height="60" width="120" x="487.5" y="410.19" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-19" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DjCh3b8ZHY6moQq9vZP6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to company owners - request for membership" vertex="1">
+          <mxGeometry height="59" width="130" x="248.75" y="621" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--47" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to user - request for membership rejected" vertex="1">
+          <mxGeometry height="60" width="120" x="487.5" y="850" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-13" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GGbUc18tlm84fCOsZ6mb-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="522.5000000000002" y="440.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-23" connectable="0" parent="GGbUc18tlm84fCOsZ6mb-13" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.1808" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-6" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Company already Visible in RFP?" vertex="1">
+          <mxGeometry height="80" width="90" x="347.5" y="400.19" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-16" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GGbUc18tlm84fCOsZ6mb-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-25" connectable="0" parent="GGbUc18tlm84fCOsZ6mb-16" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2603" y="4" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--25" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--26" connectable="0" parent="nJbcHN3ffueHASNSJDe--25" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.0493" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-8" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Approved by RIS Admin?" vertex="1">
+          <mxGeometry height="80" width="90" x="967.5" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-21" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GGbUc18tlm84fCOsZ6mb-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-28" connectable="0" parent="GGbUc18tlm84fCOsZ6mb-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.114" y="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--40" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GGbUc18tlm84fCOsZ6mb-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--41" connectable="0" parent="nJbcHN3ffueHASNSJDe--40" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2212" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-9" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Approved by owner or RFP Admin?" vertex="1">
+          <mxGeometry height="80" width="90" x="347.5" y="840" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--49" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nJbcHN3ffueHASNSJDe--48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Assign user to company as owner or approved user" vertex="1">
+          <mxGeometry height="60" width="120" x="332.5" y="966" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--31" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GGbUc18tlm84fCOsZ6mb-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Make company &quot;visible in RFP&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="952.5" y="521" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--5" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--6" connectable="0" parent="nJbcHN3ffueHASNSJDe--5" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="-0.2326" y="2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--8" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--13" connectable="0" parent="nJbcHN3ffueHASNSJDe--8" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.0064" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--2" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Approved by RIS Admin?" vertex="1">
+          <mxGeometry height="80" width="90" x="55" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to user - registration rejected" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="521" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--10" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="nJbcHN3ffueHASNSJDe--9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="620" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-1" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GGbUc18tlm84fCOsZ6mb-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to user - registration accepted" vertex="1">
+          <mxGeometry height="60" width="120" x="190" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--9" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="87.5" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--22" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to user - request for organization accepted" vertex="1">
+          <mxGeometry height="61" width="130" x="947.5" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--18" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GGbUc18tlm84fCOsZ6mb-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--16" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="87.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--19" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="1000" y="821" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--28" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--24" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to user - request for organization rejected" vertex="1">
+          <mxGeometry height="61" width="118.1" x="1109.4" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--27" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="1270" y="428" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--32" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="nJbcHN3ffueHASNSJDe--14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--29" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Assign user to company as owner" vertex="1">
+          <mxGeometry height="60" width="120" x="952.5" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--36" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="nJbcHN3ffueHASNSJDe--34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--38" connectable="0" parent="nJbcHN3ffueHASNSJDe--36" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="No" vertex="1">
+          <mxGeometry relative="1" x="0.1328" y="-2" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--33" parent="1" style="rhombus;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" value="Does company have an owner?" vertex="1">
+          <mxGeometry height="80" width="90" x="346.25" y="521" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--39" edge="1" parent="1" source="DjCh3b8ZHY6moQq9vZP6-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="GGbUc18tlm84fCOsZ6mb-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--34" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to RFP Admin - request for membership" vertex="1">
+          <mxGeometry height="59" width="130" x="406.25" y="620.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--35" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" target="GGbUc18tlm84fCOsZ6mb-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--37" connectable="0" parent="nJbcHN3ffueHASNSJDe--35" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="0.2174" y="-3" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--44" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="647.5" y="867.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--48" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" value="Send email to user - request for membership accepted" vertex="1">
+          <mxGeometry height="60" width="130" x="327.5" y="1066" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-2" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="DjCh3b8ZHY6moQq9vZP6-1" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="607.5" y="440.19" as="sourcePoint" />
+            <mxPoint x="807.5" y="440.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Display company in List of Organizations in RFP with status Pending" vertex="1">
+          <mxGeometry height="60" width="120" x="647.5" y="410.19" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-4" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nJbcHN3ffueHASNSJDe--33" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="392.5" y="480.19" as="sourcePoint" />
+            <mxPoint x="392.5" y="626.19" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-5" connectable="0" parent="DjCh3b8ZHY6moQq9vZP6-4" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="Yes" vertex="1">
+          <mxGeometry relative="1" x="-0.2226" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-8" edge="1" parent="1" source="DjCh3b8ZHY6moQq9vZP6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="GGbUc18tlm84fCOsZ6mb-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Display company in List of Recent Organization Reg. Requests in RFP" vertex="1">
+          <mxGeometry height="60" width="120" x="807.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-10" edge="1" parent="1" source="GGbUc18tlm84fCOsZ6mb-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DjCh3b8ZHY6moQq9vZP6-9" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="260" as="sourcePoint" />
+            <mxPoint x="100" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Display user in List of Pending Registrations in RIS Settings" vertex="1">
+          <mxGeometry height="60" width="120" x="40" y="298.81" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-15" edge="1" parent="1" source="DjCh3b8ZHY6moQq9vZP6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DjCh3b8ZHY6moQq9vZP6-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-11" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="535" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-14" edge="1" parent="1" source="DjCh3b8ZHY6moQq9vZP6-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="GGbUc18tlm84fCOsZ6mb-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="RFP user requests new organization in RFP" vertex="1">
+          <mxGeometry height="60" width="120" x="487.5" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-16" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DjCh3b8ZHY6moQq9vZP6-3" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="471" y="679" as="sourcePoint" />
+            <mxPoint x="393" y="846" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DjCh3b8ZHY6moQq9vZP6-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Display user in List of Users in RFP Organization detail" vertex="1">
+          <mxGeometry height="60" width="120" x="332.5" y="740" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-5" edge="1" parent="1" source="tFdYSVs-LZd3pXxacoAL-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tFdYSVs-LZd3pXxacoAL-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-6" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="767.5" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-9" edge="1" parent="1" source="tFdYSVs-LZd3pXxacoAL-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tFdYSVs-LZd3pXxacoAL-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="RFP Admin makes company visible in RFP" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-8" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="767.5" y="298.81" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-11" edge="1" parent="1" source="tFdYSVs-LZd3pXxacoAL-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="tFdYSVs-LZd3pXxacoAL-10" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780.5" y="160" as="sourcePoint" />
+            <mxPoint x="780.5" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Make company &quot;visible in RFP&quot;" vertex="1">
+          <mxGeometry height="60" width="120" x="720" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="tFdYSVs-LZd3pXxacoAL-12" edge="1" parent="1" source="nJbcHN3ffueHASNSJDe--48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="nJbcHN3ffueHASNSJDe--42" value="">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="393" y="1126" as="sourcePoint" />
+            <mxPoint x="392.5" y="1166" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nJbcHN3ffueHASNSJDe--42" parent="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#000000;" value="" vertex="1">
+          <mxGeometry height="25" width="25" x="380" y="1166" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
